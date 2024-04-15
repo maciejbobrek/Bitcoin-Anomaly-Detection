@@ -1,0 +1,2 @@
+
+print(weekly_data)
