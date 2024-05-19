@@ -1,2 +1,0 @@
-
-print(weekly_data)
