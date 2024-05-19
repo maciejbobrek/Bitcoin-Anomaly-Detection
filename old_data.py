@@ -8,3 +8,5 @@ df = pd.read_csv(file_path)
 
 # Display the DataFrame
 print(df.head())
+
+df.plot()
